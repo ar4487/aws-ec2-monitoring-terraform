@@ -20,7 +20,7 @@ This project demonstrates **DevOps / SRE skills** in automating infrastructure, 
 ---
 
 ## 🏗️ Architecture
-![Architecture.png](diagrams/architecture.png)
+![![alt text](image-1.png)](diagrams/architecture.png)
 
 ---
 
