@@ -19,9 +19,6 @@ This project demonstrates **DevOps / SRE skills** in automating infrastructure, 
 
 ---
 
-## 🏗️ Architecture
-![Architecture Diagram](diagrams/architecture.png)
-
 ---
 
 ## ⚙️ Tech Stack
@@ -52,7 +49,7 @@ aws-ec2-monitoring-terraform/
 
 ### 1️⃣ Clone Repo
 ```bash
-git clone https://github.com/<your-username>/aws-ec2-monitoring-terraform.git
+git clone https://github.com/<ar4487>/aws-ec2-monitoring-terraform.git
 cd aws-ec2-monitoring-terraform
 ```
 
@@ -90,7 +87,6 @@ This will push CPU > 70% and trigger the alarm.
 ---
 
 ## 📊 Outputs
-![Outputs](image.png)
 
 After deployment, run:
 ```bash
