@@ -49,7 +49,7 @@ aws-ec2-monitoring-terraform/
 
 ### 1️⃣ Clone Repo
 ```bash
-git clone https://github.com/<ar4487>/aws-ec2-monitoring-terraform.git
+git clone https://github.com/ar4487/aws-ec2-monitoring-terraform.git
 cd aws-ec2-monitoring-terraform
 ```
 
